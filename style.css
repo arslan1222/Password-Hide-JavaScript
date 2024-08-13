@@ -1,0 +1,28 @@
+body {
+    background: rgb(1, 36, 14);
+}
+
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: white;
+    width: 90%;
+    max-width: 400px;
+    margin: 200px auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+#eye {
+    width: 30px;
+    width: 30px;
+    cursor: pointer;
+}
+
+#container input {
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
